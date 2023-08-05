@@ -1,4 +1,4 @@
-# Perfect-MLOPs-Project-Structure-Cookiecutter-readme.so
+# Perfect-MLOPs-Project-Structure-Cookiecutter
 
 Table of Contents
 
