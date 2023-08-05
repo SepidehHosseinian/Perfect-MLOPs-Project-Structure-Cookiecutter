@@ -24,7 +24,7 @@ Then, you can create a new project using this template by running the following 
 cookiecutter https://github.com/SepidehHosseinian/Perfect-MLOPs-Project-Structure-Cookiecutter-readme.so.git
 
 You will be prompted to enter some information about your project, such as the name, description, author, license, etc. After that, you will have a new directory with the name of your project that contains the following structure:
-
+```
 ├── data
 │   ├── external
 │   ├── interim
@@ -48,7 +48,7 @@ You will be prompted to enter some information about your project, such as the n
 ├── Makefile
 ├── README.md
 └── requirements.txt
-
+```
 ## Usage
 To use this project structure, you need to follow some conventions and best practices. Here are some guidelines:
 
